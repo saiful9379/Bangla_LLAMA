@@ -4,6 +4,10 @@ Llama is a family of open-source large language models released by Meta. we use 
 
 # Requirements
 ```
+pip install -r requirements.txt
+```
+or
+```
 datasets==2.14.5
 sentencepiece==0.1.99
 transformers==4.34.0.dev0
@@ -12,7 +16,7 @@ loralib
 peft==0.6.0.dev0
 
 ```
-or 
+or [lates require module]
 ```
 pip install -q bitsandbytes
 pip install -q datasets loralib sentencepiece
