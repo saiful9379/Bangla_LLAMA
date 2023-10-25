@@ -1,5 +1,6 @@
 # Bangla_LLAMA
 
+Llama is a family of open-source large language models released by Meta. we use for the Bangla Large language model to fine-tune. Llama models come in two flavors — pre-trained(From OdiaGenAI) and fine-tuned for our custom dataset. While the latter is typically used for Bangla general-purpose chat use cases, the former can be used as a foundation to be further fine-tuned for a specific use case.
 
 # Requirements
 ```
@@ -67,13 +68,11 @@ Not Yet Done
 ```
 
 # Infenence
-
+Inference interactive notebook file, 
 ```
 ./examples/Bangla_llama_lora_inference.ipynb
 ```
-
 # References
-
 ```
 1. https://github.com/tatsu-lab/stanford_alpaca
 2. https://colab.research.google.com/drive/1eWAmesrW99p7e1nah5bipn0zikMb8XYC
