@@ -55,16 +55,21 @@ Run the ```train.py``` file
 python train.py
 ```
 
+Interactive notebook file 
+```
+./examples/Bangla_llama_Lora_finetune_final.ipynb
+```
+
 # Evaluation
 
 ```
-
+Not Yet Done
 ```
 
 # Infenence
 
 ```
-
+./examples/Bangla_llama_lora_inference.ipynb
 ```
 
 # References
