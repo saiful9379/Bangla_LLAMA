@@ -48,7 +48,7 @@ Format the data structure into JSON Format, Following the below structure,
 ```
 
 
-# Configuraiton
+# Configuration
 
 check the configuration for ```config.py``` and set your configuration.
 
